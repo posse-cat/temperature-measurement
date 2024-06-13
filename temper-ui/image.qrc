@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/ft_icon">
+        <file>img_pkg/200.jpeg</file>
+        <file>img_pkg/300.jpg</file>
+        <file>img_pkg/400.jpeg</file>
+        <file>img_pkg/500.jpeg</file>
+        <file>img_pkg/600.jpeg</file>
+    </qresource>
+    <qresource prefix="/ui_pattern">
+        <file>img_pkg/major.png</file>
+        <file>img_pkg/thermometer.jpg</file>
+    </qresource>
+</RCC>
