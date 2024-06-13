@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/tfile">
+        <file>telegram-TCP/record.txt</file>
+    </qresource>
+</RCC>

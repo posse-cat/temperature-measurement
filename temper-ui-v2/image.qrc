@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/toolbar">
+        <file>img_pkg/connect.jpg</file>
+        <file>img_pkg/disconnect.jpeg</file>
+        <file>img_pkg/fiber_calibration.jpeg</file>
+        <file>img_pkg/testArm2.png</file>
+        <file>img_pkg/testArm4.png</file>
+        <file>img_pkg/testArm5.png</file>
+        <file>img_pkg/testArm6.png</file>
+    </qresource>
+</RCC>
